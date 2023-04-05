@@ -42,3 +42,8 @@ To get your Telegram chat ID, you can use the Telegram User Info Bot:
 3. The bot will reply with your chat ID, which you can use in the `chat_id` variable in the Python script.
 
 Note that you should replace the `chat_id` variable in the `send_message()` function in the `main.py` script with your own chat ID obtained from the Telegram User Info Bot.
+
+
+[![website](https://img.shields.io/badge/Github%20Page-mrbhanukab.github.io-lightgrey?style=for-the-badge&logo=GitHubr&logoColor=white)](https://mrbhanukab.github.io/)
+<br>[![github](https://img.shields.io/badge/Github-mrbhanukab-%23333?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mrbhanukab)<br>
+[![twitter](https://img.shields.io/badge/Twitter-mrbhanuka-%2300acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mrbhanuka)
